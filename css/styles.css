@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  color: blue;
+  color: #2E8B57;
 }
 
 body {
@@ -11,10 +11,14 @@ body {
 ul {
   font-weight: bold;
   text-align: center;
+  list-style-position: inside;
+  color: #8FBC8F;
 }
 
 p {
   font-family: serif;
   font-size: 30px;
   text-align: center;
+  color: #8FBC8F;
+
 }
